@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R0E0Keerthana
-- 👀 I’m interested in Coding
+- 👀 I’m passionate about Coding
 - 🌱 I’m mastering JAVA
   
 <!---
