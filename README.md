@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R0E0Keerthana
 - 👀 I’m passionate about Coding
-- 🌱 I’m mastering JAVA
+- 🌱 I’m learning Flask
   
 <!---
 R0E0Keerthana/R0E0Keerthana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
